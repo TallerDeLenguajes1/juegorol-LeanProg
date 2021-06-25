@@ -1,0 +1,17 @@
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\bin\Debug\netcoreapp3.1\juegosdelpoder.exe
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\bin\Debug\netcoreapp3.1\juegosdelpoder.deps.json
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\bin\Debug\netcoreapp3.1\juegosdelpoder.runtimeconfig.json
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\bin\Debug\netcoreapp3.1\juegosdelpoder.runtimeconfig.dev.json
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\bin\Debug\netcoreapp3.1\juegosdelpoder.dll
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\bin\Debug\netcoreapp3.1\juegosdelpoder.pdb
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.csproj.AssemblyReference.cache
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.FormJDP.resources
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.Form2.resources
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.csproj.GenerateResource.cache
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.AssemblyInfoInputs.cache
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.AssemblyInfo.cs
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.csproj.CoreCompileInputs.cache
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.dll
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.pdb
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.genruntimeconfig.cache
+C:\Users\Leanpix\source\repos\juegosdelpoder\juegosdelpoder\obj\Debug\netcoreapp3.1\juegosdelpoder.Formbatalla.resources
